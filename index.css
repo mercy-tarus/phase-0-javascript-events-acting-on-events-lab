@@ -1,5 +1,7 @@
+/** @format */
+
 #dodger {
-  background-color: white;
+  background-color: rgb(71, 227, 233);
   height: 20px;
   position: absolute;
   width: 40px;
